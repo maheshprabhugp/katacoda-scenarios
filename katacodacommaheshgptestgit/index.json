@@ -24,9 +24,9 @@
     }
   },
   "environment": {
-    "uilayout": "editor+terminal"
+    "uilayout": "editor-terminal"
   },
   "backend": {
-    "imageid": "java"
+    "imageid": "java8"
   }
 }
